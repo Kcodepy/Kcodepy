@@ -1,6 +1,6 @@
 # Mr.Ducky
 # 💫 About Me:
-#Hello i'm Mr.Ducky: [![](https://komarev.com/ghpvc/?username=Mr.Ducky&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+Hello i'm Mr.Ducky: [![](https://komarev.com/ghpvc/?username=Mr.Ducky&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 -Cars<br>-watches <br>-money<br>-thinking about new inventions<br>-trying to make money by new apps/tools that i invent<br>-HTML/CSS/ a little bit JS<br>-trying to improve projects or pitch good idea's
 
 # 💻 Tech Stack:
