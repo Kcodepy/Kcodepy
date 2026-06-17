@@ -1,7 +1,7 @@
 # Kcodepy
 # 💫 About Me:
 Hello i'm Kcodepy:<br>
--Cars<br>-watches <br>-thinking about new inventions<br>-trying to make money by new apps/tools that i invent<br>-HTML/CSS/ a little bit JS<br>-trying to improve projects or pitch good idea's
+-Cars<br>-watches <br>-thinking about new inventions<br>-trying to make new apps/tools that i invent<br>-HTML/CSS/ a little bit JS<br>-trying to improve projects or pitch good idea's
 
 # 💻 Tech Stack interests and learning:
 
